@@ -1,7 +1,9 @@
 # Movie-Tycoon : Big Data for movies
+- Developed GCP-hosted product for over 1 million movie investors on HSX.com, aiding online trading by designing end-to-end Hive workflow using MapReduce; weekly update of Box Office trends by dynamic web scraping
+- Instituted proposal for producers to leverage proactive script writing by analyzing ~480K movie reviews on Rotten Tomatoes
 
 ### Problem Statement:
-Movie Tycoon is a platform which helps movie investors by providing insights on where and whom to invest the money on.
+Movie Tycoon is a platform which helps movie investors on https://www.hsx.com/ by providing insights on where and whom to invest the money on.
 
 ### Process:
 1. Leveraged Python Web Scraping tools to build a corpus of data that could be leveraged for ‘NLP Modeling’
