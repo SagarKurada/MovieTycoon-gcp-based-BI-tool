@@ -34,10 +34,10 @@ Movie Tycoon is a platform which helps movie investors on https://www.hsx.com/ b
 ## Results:
 * 1. Understand Box Office Trends - The top box office returns are observed in Action, Musical and Family genres
 * 2. Leverage NLP to understand critics reviews - The top words in movies having positive reviews are 
-* Story
-* Compelling
-* Performance
-* Brilliant Drama
+  * Story
+  * Compelling
+  * Performance
+  * Brilliant Drama
 * 3. Movie Business Landscape Analysis - The top movies produced are produced in Drama, Thriller and Comedy genre
 * 4. Entire product uses real time predictions every Monday at 8am using Hive for scheduling automated workflows
 
