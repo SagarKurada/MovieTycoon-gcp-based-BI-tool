@@ -18,14 +18,17 @@ Movie Tycoon is a platform which helps movie investors on https://www.hsx.com/ b
 <p align="center">
   <img width="620" height="400" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/architecture.PNG">
 </p>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img width="620" height="400" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/pipeline.PNG">
 </p>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img width="620" height="400" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/pipeline1.PNG">
 </p>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img width="620" height="400" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/pipeline2.PNG">
