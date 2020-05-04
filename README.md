@@ -1,7 +1,7 @@
 # Movie-Tycoon : Big Data for movies
 
 <p align="center">
-  <img width="300" height="480" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/movie-tycoon.PNG">
+  <img width="300" height="440" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/movie-tycoon.PNG">
 </p>
 
 - Developed GCP-hosted product for over 1 million movie investors on HSX.com, aiding online trading by designing end-to-end Hive workflow using MapReduce; weekly update of Box Office trends by dynamic web scraping
@@ -47,5 +47,5 @@ https://www.youtube.com/watch?v=wpuIuco7MX0
 ![Methodology](https://github.com/akshay-madar/codestack/blob/master/ML-DL%20Projects/Cloud%20Based%20BI%20Platform%20-%20Movie%20Tycoon/Movie%20Tycoon.png)
 
 <p align="center">
-  <img width="200" height="100" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/product-logo.PNG">
+  <img width="300" height="150" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/product-logo.PNG">
 </p>
