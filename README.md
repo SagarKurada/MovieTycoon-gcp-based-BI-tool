@@ -45,11 +45,15 @@ Movie Tycoon is a platform which helps movie investors on https://www.hsx.com/ b
 </p>
 
 ## Youtube link:
-https://www.youtube.com/watch?v=wpuIuco7MX0
+Visit the following link to listen to the product pitch --> https://www.youtube.com/watch?v=wpuIuco7MX0
 
 ## Tableau Dashboard
-![Methodology](https://github.com/akshay-madar/codestack/blob/master/ML-DL%20Projects/Cloud%20Based%20BI%20Platform%20-%20Movie%20Tycoon/Movie%20Tycoon.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/akshay-madar/codestack/blob/master/ML-DL%20Projects/Cloud%20Based%20BI%20Platform%20-%20Movie%20Tycoon/Movie%20Tycoon.png">
+</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img width="400" height="200" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/product-logo.PNG">
 </p>
