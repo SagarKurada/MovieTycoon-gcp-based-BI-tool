@@ -11,9 +11,9 @@
 Movie Tycoon is a platform which helps movie investors on https://www.hsx.com/ by providing insights on where and whom to invest the money on. The aim is to provide creative personnel with a tool to analyze reviews and use it as a feedback for future projects. This way, investors can identify the right price for investments in cinema business, and theatre owners can schedule movie shows based on box office predictions.
 
 ## Process:
-1. Deployed Python Web Scraping tools to build a corpus of data that could be leveraged for ‘NLP Modeling’
-2. Leveraged HIVE platform to query solutions on movie database
-3. Used Naïve Bayes Algorithm to identify the sentiment of the trends
+1. Deployed Python Web Scraping tools to build a corpus of data that could be leveraged for ‘NLP Modeling’.
+2. Leveraged HIVE platform to query solutions on movie database.
+3. Used Naïve Bayes Algorithm to identify the sentiment of the trends.
 
 <p align="center">
   <img width="620" height="400" src="https://github.com/akshay-madar/MovieTycoon-gcp-based-BI-tool/blob/master/tycoon/architecture.PNG">
